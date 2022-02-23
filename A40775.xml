@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithfull remonstrance of all the chiefe matters of note which have happened in and about Dublin, and other parts of Ireland, from the 26 of January, to this present, being the 1 of March, 1642 wherein is truly set down, 1. An exact relation of severall great discomfitures given to the rebels by the Protestant army, with the number of men slain, and taken prisoners on both sides as neare as could be gathered, 2. How Sir Nicholas WHite, Alderman Ianes ... were committed prisoners to the Castle of Dublin, by the L. Chiefe Justices of Ireland, 3. The names of divers townes which the Protestants have been forced to burne ... and to punish the inhabitatnts who concurred with them, 4. A very remarkable passage concerning Carnow Castle ... freed by the politike invention and couragious adventure of a gentlewoman [sic] by name Mistris Rochford : lastly, how 65 chiefe officers and commanders over the Irish rebels, with all and every of their partakers, ayders, or conferederates are proclaymed traitors and notorious rebels, against ... King Charles, his crown and dignity, which proclamation was read in both Houses of Parliament, on Tuesday the 22 of Feb., 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40775</idno>
+            <idno type="STC">Wing F283</idno>
+            <idno type="STC">ESTC R20357</idno>
+            <idno type="EEBO-CITATION">12293091</idno>
+            <idno type="OCLC">ocm 12293091</idno>
+            <idno type="VID">58927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 626:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithfull remonstrance of all the chiefe matters of note which have happened in and about Dublin, and other parts of Ireland, from the 26 of January, to this present, being the 1 of March, 1642 wherein is truly set down, 1. An exact relation of severall great discomfitures given to the rebels by the Protestant army, with the number of men slain, and taken prisoners on both sides as neare as could be gathered, 2. How Sir Nicholas WHite, Alderman Ianes ... were committed prisoners to the Castle of Dublin, by the L. Chiefe Justices of Ireland, 3. The names of divers townes which the Protestants have been forced to burne ... and to punish the inhabitatnts who concurred with them, 4. A very remarkable passage concerning Carnow Castle ... freed by the politike invention and couragious adventure of a gentlewoman [sic] by name Mistris Rochford : lastly, how 65 chiefe officers and commanders over the Irish rebels, with all and every of their partakers, ayders, or conferederates are proclaymed traitors and notorious rebels, against ... King Charles, his crown and dignity, which proclamation was read in both Houses of Parliament, on Tuesday the 22 of Feb., 1641.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58927:1"/>
+            <pb facs="tcp:58927:1" rendition="simple:additions"/>
+            <p>A Faithfull Remonſtrance, Of all the chiefe matters of Note which have happened in and about <hi>Dublin,</hi> and other parts of <hi>Ireland,</hi> from the 26 of <hi>January,</hi> to this pre<g ref="char:EOLhyphen"/>ſent, being the 1 of <hi>March,</hi> 1642.</p>
+            <p>Wherein is truly ſet down,
+<list>
+                  <item>1 An exact Relation of ſeverall great Diſcomfitures given to the Rebels by the Proteſtant Army, with the number of men ſlain, and taken pri<g ref="char:EOLhyphen"/>ſoners on both ſides as neare as could be gathered.</item>
+                  <item>2 How Sir <hi>Nicholas white, Alderman Ianes,</hi> and ſome others, all rich men both for lands and money, were committed priſoners to the Caſtle of <hi>Dublin,</hi> by the L. Chiefe Juſtices of <hi>Ireland.</hi>
+                  </item>
+                  <item>3 The names of divers Townes which the Proteſtants have been forced to burne, to take away from the Rebels the benefit of houſing, and to pu<g ref="char:EOLhyphen"/>niſh the inhabitants who concurred with them.</item>
+                  <item>4 <hi>A ver<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y remarkable paſſage concerning</hi> Carnow Caſtle, <hi>which having been long beſieged by the Enemy, was at laſt relieved and totally freed by the Politike invention and couragious adventure of a Gentlwoman by name Mistris</hi> Rochford.</item>
+                  <item>Laſtly, how 65 chiefe Officers and Commanders over the <hi>Iriſh</hi> Rebels, with all and every of their partakers, ayders, or Confederates are pro<g ref="char:EOLhyphen"/>claymed Traitors and notorious Rebels, againſt our moſt gracious Soveraigne Lord King <hi>CHARLES,</hi> his Crown and Dignity, which Proclamation was read in both Houſes of Parliament, on Tueſday the 22 of Feb. 1641.</item>
+               </list>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed by a perfect Copy, for <hi>J. Wright,</hi> dwelling in the Old-Bailey, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58927:2"/>
+            <pb n="1" facs="tcp:58927:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>FROM <hi>D<g ref="char:V">Ʋ</g>BLIN.</hi>
+               </dateline>
+            </opener>
+            <div n="January 26" type="date">
+               <opener>
+                  <dateline>
+                     <date>January 26.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>T Swords, Fingals, Santry and other Towns therea<g ref="char:EOLhyphen"/>bouts were lately burnt to take away from the Rebels the benefit of houſing, and to puniſh the Inhabitants who concurred with them. So now <hi>Rathcoule</hi> and <hi>Taſagard</hi> are burnt by 200 of our Horſe, ſent out for that purpoſe. The two troops divided themſelves, ſo as tho one half were at <hi>Rathcoule,</hi> and the other at <hi>Toſagard;</hi> thoſe at <hi>Rathcoule</hi> were encountred by 1000 Foot of the Rebels, whereupon our Horſes ſeemed to retreat: The Rebels purſued them. And when our Horſe came to a place of advantage, to the ſmall brook on this ſide <hi>Rathcoule,</hi> where two ways meet; the one to <hi>Rathcoule,</hi> the other to <hi>Toſaggard:</hi> there our Horſe met and charged them, and the Rebels betook them to their heels, and ſo were routed: Our Souldiers fol<g ref="char:EOLhyphen"/>lowed the executioners and therein ſlew 60 of the Rebels; and among them a Captain of 200 Foot, namely, Mr. <hi>Andrew Ley,</hi> brother to Mr. <hi>Ley</hi> of <hi>Rathbride</hi> in the County of <hi>Kildare,</hi> an <hi>Engliſh mans</hi> ſon. <hi>An<g ref="char:EOLhyphen"/>drew</hi> married to Sir <hi>Richard Cooks</hi> daughter, ſometime Secretary of State here. Theſe Rogues had hardly any powder, and for match uſed weeks of candles.</p>
+            </div>
+            <div n="January 27, 1641" type="date">
+               <opener>
+                  <dateline>
+                     <date>January the 27, 1641.</date>
+                  </dateline>
+               </opener>
+               <p>THe laſt night ſome of our Horſe ſallied out to <hi>Racoule</hi> 6 miles from <hi>Dublin,</hi> where they met with 5 or 600 of the Rebels, which made as though they would have ſtood to a Skirmiſh, being the grea<g ref="char:EOLhyphen"/>ter number by many hundreds: but proved otherwiſe, for our men ſlew 80 or 100 of them, and the reſt ran away, our men brought in ſome pillage of Cattle ſheep and ſwine, and came all ſafe in again, bleſ<g ref="char:EOLhyphen"/>ſed bee God for his gracious protection.</p>
+               <pb n="2" facs="tcp:58927:3"/>
+               <p>I writ of a report of a late onſet of the enemy made upon <hi>Droghedagh</hi> which is yet continued to be true, which was to be done this day 7 night, but the Rebels have cut off all our paſſage by land, ſo that what we heare is by their own relation, which is, that our men have given the Enemy a great overthrow, having ſlaine 1500 men, whereof 2 were Lords, and one that was of eſtate in Lands, better than ſome of the Lords, in which as they them<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves report, we loſt not above ſix men, the Lord grant it may prove true.</p>
+               <p>This week our Lords Iuſtices and Counſell have commited to the Caſtle of <hi>Dublin,</hi> Sir <hi>Nicholas White Alderman, Janes</hi> and <hi>Sedgrave</hi> of the <hi>Caberagh,</hi> all rich men, both for lands and money, and many in this City deſerve the like, had they their due deſert.</p>
+               <p>Carnow Caſtle hath been long beſieged by the Enemy, and yet holds out, but driven to a great ſtrait, but in hope to be relieved by a Gentle<g ref="char:EOLhyphen"/>woman which was in it, ſhe being formerly wel acquainted with the chiefe of thoſe Rebels: the plot was this; that ſhe ſhould go forth to him, with a complaint of their miſery, not being able to indure it: ſhe having a ſiſter within the Caſtle in the like caſe, that if they might be freed, ſhe would be a meanes that the Rebels might take the Caſtle, of which they were glad to heare of: ſhe propounded the way, which was, that ſhould he ſend with her, according to her directions, 5 or 6 of the chiefe, which ſhe named, which ſhe would undertake to bring into the Caſtle, and the reſt to be ready, that when the Iron gate was opened for her to come in, theſe 5 or 6 ſhould follow cloſe to her, and keep the gate open, till the reſt were come in, all which was perfor<g ref="char:EOLhyphen"/>med, but with ſuch a deviſe, which thoſe in the Caſtle with her had deviſed with Iron Chaines, that when the few with her ſelfe were come in, they kept out all the reſt, by which they in the Caſtle have got good priſoners into them to make their own conditions for what they want, or to hang their priſoners over the wall, which the Re<g ref="char:EOLhyphen"/>bels will be very unwilling of, they being prime men amongſt them, theſe Gentlewomen are of the <hi>Rochfords,</hi> who have 2 brothers here, the one a Captain, the other a Lievtenant, both of them valiant Sol<g ref="char:EOLhyphen"/>diers, good Commanders, and true and faithfull ſubjects.</p>
+            </div>
+            <div n="January 31" type="date">
+               <opener>
+                  <dateline>
+                     <date>January 31.</date>
+                  </dateline>
+               </opener>
+               <p>Colonel <hi>Hugh,</hi> M. <hi>Phelym Birne,</hi> Collonel <hi>Roger, alias Rory O Moore,</hi> Collonel <hi>Sutton</hi> &amp; others, to the number of 200, kept about the <hi>Haas, Lyons Newcaſtle, Oughterard</hi> and <hi>Kill.</hi> The Earle of <hi>Ormond</hi> attended by the L. <hi>Lamble,</hi> Sir <hi>Charles Coote,</hi> Sir <hi>Simon Harcourt,</hi> Sir <hi>Tho. New<g ref="char:EOLhyphen"/>comer</hi>
+                  <pb n="3" facs="tcp:58927:3"/>and others, to the number of 2000 Foot, and 300 Horſe, with 3 or 4 Field pieces, marched to <hi>Newcaſtle</hi> and burnt it to the ground: and alſo <hi>Lyons, Rathcridan,</hi> and <hi>Oughterard,</hi> and burnt alſo the roofs of the Caſtles in thoſe parts, wherof there are many. Then they marched to the <hi>Haas</hi> (where the Rebels were ſo heartily entertained) plundred the Town, as it wel deſerved, burnt <hi>Tipp, Midlaghcaſh, Newland, Kill<g ref="char:EOLhyphen"/>cullen bridge, Caſtlimtin,</hi> and in their return <hi>Johnſton</hi> and <hi>Kill</hi> and re<g ref="char:EOLhyphen"/>turned home on <hi>Thurſday,</hi> the Souldiers loaden with pillage. In all which places the Rebels that brag'd ſo much of their number and va<g ref="char:EOLhyphen"/>lour, had not the courage to look our men in the face. I cannot yet learne that <hi>Edward Allen</hi> that is in poſſeſſion of <hi>Caſtlewarming</hi> was met with, but I beleeve his fathers houſe in <hi>Oughterard</hi> eſcaped not.</p>
+            </div>
+            <div n="February 1" type="date">
+               <opener>
+                  <dateline>
+                     <date>Feb. 1.</date>
+                  </dateline>
+               </opener>
+               <p>This morning ſome of our Army both Horſe &amp; Foot, march'd with 8 pieces to new <hi>Caſtle Lions,</hi> 7 miles from <hi>Dublin,</hi> a Town wherein are 7 Caſtles, in which the Enemy kept their Campe, but before our Army came to the Town, the Enemy were ſled and had taken away with them all the pillage, but our Army marched forward to the <hi>Naſe</hi> where the Enemy had another Camping place 5 miles farther, but of their ſucceſſe we yet heare no certainty of: The Lord, in mercy proſper them, and ſend them a victorious and ſafe returne, of which we hope and pray for.</p>
+               <p>This laſt night Captaine <hi>Scout,</hi> with his horſe all voluntiers went forth towards <hi>Clantarffe,</hi> and returning about breake of the day to <hi>Drumconran,</hi> which is but a mile from <hi>Dublin,</hi> they were beſet by the Enemy both horſe and foot, to the number of five hundred, and our men being not forty, yet they came off with honour, not looſing one man nor horſe.</p>
+               <p>The good Lady <hi>Offalie,</hi> with the young Lord and your brother, with the reſt in that Caſtle, have been driven to great diſtreſſe, by reaſon of two of her ſervants, that would have betrayed them by a Rope from off the wall, one night when he ſhould have watcht went to the Rebels and tould them, how to cut off the water from them in the Caſtle, which was done, whereupon they in the caſtle were forced to put their lives upon it to ſally out, which they did, and when they had ſlaine ten or twelve of the Rebels the reſt ſled, ſo that by Gods good providence they in the Caſtle had liberty, and oppor<g ref="char:EOLhyphen"/>tunity to relieve themſelves, not only in water but in Corne which the Rebels had threſhed for themſelves, but none of their owne, thoſe
+<pb n="4" facs="tcp:58927:4"/>in the Caſtle burnt the houſes and Church, ſo as if they come againe there will be no ſhelter for them: ſince I have not heard from them, for they cannot ſend to me, nor I to them; the enemy lying in ſuch abundance between them and <hi>Dublin,</hi> the Lord in mercy looke upon us all.</p>
+            </div>
+            <div n="February 3" type="date">
+               <opener>
+                  <dateline>
+                     <date>Feb. 3. 1641.</date>
+                  </dateline>
+               </opener>
+               <p>This day our Army bleſſed be God, are ſafely returned home, where they have done good ſervice in burning fifteene or ſixteene Rebelli<g ref="char:EOLhyphen"/>ous Townes and Caſtles, which harboured the enemy, and brought with them Cattell and other pillage, but the Rebels themſelves fled before our Army came to them, only one Caſtle where they diſchar<g ref="char:EOLhyphen"/>ged once, and ſo ran away; We have ſo many Papiſts and Spies on their part amongſt us in this City, that we cannot do or intend to do any thing, but they have preſent notice given them: The Lord in mercy remove them all.</p>
+               <p>Our Army have brought theſe priſoners, Mr. <hi>George Aylmer</hi> of <hi>Lyons,</hi> Mr. <hi>Tho. Aſh</hi> and <hi>Tra. Aſh</hi> of the <hi>Haas,</hi> and <hi>Higgam</hi> the Fryer, &amp; they had another of quality, Mr. <hi>Bendly Britten,</hi> who married the widdow <hi>Aylmer</hi> of <hi>Lyons,</hi> but he eſcaped.</p>
+            </div>
+            <div n="February 9" type="date">
+               <opener>
+                  <dateline>
+                     <date>February 9.</date>
+                  </dateline>
+               </opener>
+               <p>Sir <hi>Nich, White</hi> is committed cloſe priſoner, and Alderman <hi>Iames</hi> it is thought it will go very hard with the Alderman, hee is char<g ref="char:EOLhyphen"/>ged with ſending intelligence to the Rebels.</p>
+               <p>This day grand Iuries are ſummoned to appeare for the Counties of <hi>Kildare, Wicklo, Meath,</hi> and other places, and I beleeve the Lords of the <hi>Pale,</hi> and moſt of the prime men who are active in the buſineſſe will be indicted of Treaſon.</p>
+               <p>Our Army hath not had any pay theſe three weeks, but are deferd upon the City, which doth prove very heavy and burdenſome. God turne the wind, that we may have ſome eaſe and comfort by the Trea<g ref="char:EOLhyphen"/>ſure, leaſt we ſhould be ruined, as the poorer ſort are already, ſome be<g ref="char:EOLhyphen"/>ing forced to diet 6.8.10. ſome more, ſome leſſe.</p>
+            </div>
+            <div n="February 12" type="date">
+               <opener>
+                  <dateline>
+                     <date>February 12.</date>
+                  </dateline>
+               </opener>
+               <p>This day 1000. of our men commanded by the Lord <hi>Lambte,</hi> mar<g ref="char:EOLhyphen"/>ched to the <hi>Deames Grange,</hi> 5. miles off, where were above a thouſand of the Rebels; our men fought with them, routed them, and ſlew a<g ref="char:EOLhyphen"/>bove a hundred of the Rebels: and among them ſome, Captaines, and Lievtenants of the <hi>Cavenaghs,</hi> Sir <hi>Morgan Cavenagh</hi> himſelfe was not there, but was gone to <hi>Art Cavenaghes</hi> at <hi>Threecaſtles</hi>
+                  <pb n="5" facs="tcp:58927:4"/>three dayes before. Our men tooke one of quality, <hi>Edw. Walſh</hi> ſecond ſonne of old Maſter <hi>Walſh</hi> of <hi>Clonmanim,</hi> who lookes now like a Rogue, and ſome fifteen more, who are inconſiderable perſons. He and they will be hanged, which is a death too good for them; there was not one man kild on our ſide, and but one hurt. I hope Sir <hi>Morgan Cavenaghs</hi> ſon, who is now a priſoner in the Caſtle, will be hanged, ſeeing his fathers ungratefull treachery now appearing in Rebellion, diſcovers it, his and his ſons comming hither 23 <hi>Octob.</hi> under the pre<g ref="char:EOLhyphen"/>tence of taking a houſe there was for no good.</p>
+            </div>
+            <div n="February 14" type="date">
+               <opener>
+                  <dateline>
+                     <date>February 14.</date>
+                  </dateline>
+               </opener>
+               <p>Here is nothing but ſpoile and deſtruction on both ſides, and when there will be an end of it God only knoweth, ſo many of all ſorts in all places are involved in this fatall buſineſſe, which will be the de<g ref="char:EOLhyphen"/>ſtruction of moſt of the ancient families in this Kingdome; many whereof were never oucht with the leaſt touch or blemiſh of diſloy<g ref="char:EOLhyphen"/>alty before theſe unhappy times. In the County of <hi>Kildare,</hi> we have neer 300 indicted of Treaſon in the Kings Bench and the Bils found, among which are moſt of our prime Gentlemen, as <hi>Eustug</hi> of <hi>Caſtle<g ref="char:EOLhyphen"/>mertin, Newland, Mollaghcaſh,</hi> and <hi>Cradockeſton, Sutton</hi> of <hi>Tipp. Owgan</hi> of <hi>Rathcofſi,</hi> Sir <hi>Andrew Aylmer, Aylmer</hi> of <hi>Lyons,</hi> the old Counteſſe of <hi>Kildare,</hi> Sir <hi>Nich White,</hi> and his ſon Captain <hi>Nich. White,</hi> (whoſe Officers with his 100. Souldiers and Armes went to the Rebels in <hi>Novemb.</hi> laſt) and who not?</p>
+               <p>In the County of <hi>Meath,</hi> all the Lords, and in that, and in the Counties of <hi>Dublin,</hi> and <hi>Wickle,</hi> moſt of prime men. God ſend a good iſſue, this Kingdome was never at ſuch a paſſe: No man is ſure of any thing in his own poſſeſſion; and of what is in the hands of others, nothing can be had on any termes.</p>
+            </div>
+            <div n="February 15" type="date">
+               <opener>
+                  <dateline>
+                     <date>February 15.</date>
+                  </dateline>
+               </opener>
+               <p>Captain <hi>Cadogan</hi> came from Sir <hi>Fr. Tichborn</hi> by boat on the 5. of this Month, and then he was well, though in ſome want of victuals and other neceſſaries; and now he returns with thoſe proviſions, God grant them a ſafe paſſage. He aſſures us that Sir <hi>Fr.</hi> hath at ſeverall times ſince he ſat down in <hi>Drogheda</hi> flaine 1000. of the Rebels, and hath not loſt by the hand of the enemy above ſix men.</p>
+            </div>
+            <div n="February 22" type="date">
+               <opener>
+                  <dateline>
+                     <date>February 22.</date>
+                  </dateline>
+               </opener>
+               <p>This day there was a Proclamation read in both Houſes of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> beating date the eight of <hi>February</hi> 1641. wherein Sir <hi>Philem O Neal,</hi> Sir <hi>Con Magenis, Patrick mac Cartan,</hi> and 62 more of the
+<pb n="6" facs="tcp:58927:5"/>chief Commanders, and other Officers over the <hi>Iriſh</hi> Rebels, with all their and every of their Partakers, Ayders, Maintainers, Comforters, Confederates, Complices and Aſſociates, were proclaimed apparant, notorious, ungratefull, wicked, vile and unna<g ref="char:EOLhyphen"/>turall T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aytors and Rebels, againſt our moſt gracious Soveraigne Lord <hi>Charles,</hi> by the grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi> His Royall Crown and dig<g ref="char:EOLhyphen"/>nity. Willing therefore, requiring, warranting and authoriſing all his Majeſties good and loving Subjects, to purſue and plague with fire and ſword, apprehend, deſtroy, and kill by all the ways and meanes they may, all the ſaid perſons, their partakers, <hi>&amp;c.</hi>
+               </p>
+               <p>Declaring alſo to all men, as well good Subjects as others, that whoſoever ſhall betwixt that time and the 25 day of <hi>March</hi> next, kil or cauſe to be killed any of the ſaid Rebels, ſhal have for their reward as followeth, <hi>viz.</hi>
+                  <table>
+                     <row>
+                        <cell rows="5">For the head of</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Philem O Neal</hi>
+                        </cell>
+                        <cell>1000. l.</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Con Magenis</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rory Magwire</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Philip mac Hugh mac Shane O Rely</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Collo mac Brian mac Mahon</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And for the reſt of the notorious Rebels nominated in the Proclama<g ref="char:EOLhyphen"/>tion, 300 l. a head, and pardon for all his or their offences that ſhall kill and ſo bring in, or cauſe to be killed, and ſo brought in the ſaid head or heads.</p>
+               <closer>
+                  <dateline>This Proclamation iſſued forth under the hands of the Lords Iuſtices and Counſell of <hi>Ireland,</hi> whoſe names are as fol<g ref="char:EOLhyphen"/>loweth,</dateline>
+                  <signed>
+                     <list>
+                        <item>Ormond Oſſory.</item>
+                        <item>R. Dillon.</item>
+                        <item>Cha. Lambart.</item>
+                        <item>Ad. Loftus.</item>
+                        <item>Cha. Coote.</item>
+                        <item>Tho. Rotheram.</item>
+                        <item>Fra. Willoughby.</item>
+                        <item>Rob. Meredith.</item>
+                        <item>J. Temple.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58927:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
